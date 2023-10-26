@@ -6102,9 +6102,9 @@ gatsby-plugin-manifest@^3.4.0:
     semver "^7.3.2"
     sharp "^0.28.0"
 
-gatsby-plugin-netlify@^3.4.0:
+gatsby-plugin-netlify@3.4.0:
   version "3.4.0"
-  resolved "https://registry.npmjs.org/gatsby-plugin-netlify/-/gatsby-plugin-netlify-3.4.0.tgz#492e002acfe11bf2aad78ff6d130f3855a8640ca"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify/-/gatsby-plugin-netlify-3.4.0.tgz#492e002acfe11bf2aad78ff6d130f3855a8640ca"
   integrity sha512-11BedkoJpwR3m9LejpjsSyf4tcbUJxB07X4ho/ohD2FUZdXzClL3Bi4guVwRP4xwYzzQoMvGnQA83BZk0DEkeA==
   dependencies:
     "@babel/runtime" "^7.12.5"

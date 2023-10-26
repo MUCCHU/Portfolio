@@ -134,7 +134,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
+            {/* <p>
               Hello! My name is Brittany and I enjoy creating things that live on the internet. My
               interest in web development started back in 2012 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
@@ -159,6 +159,19 @@ const About = () => {
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
+            </p> */}
+
+            <p>
+              Hello! I'm Harsh, a curious and creative individual having a unique blend of technical
+              expertise and creative problem-solving skills. I enjoy creating things that live on
+              the internet, whether that be websites, applications, or anything in between. I am a
+              pre-final year student at IIT Kharagpur pursuing Integrated M.Sc. in Mathematics and
+              Computing. Originally from Nagpur, Maharashtra, I am currently living in Kharagpur,
+              West Bengal.
+            </p>
+            <p>
+              When I am not infront of my computer, I love traveling and exploring new places. I
+              love to work out everyday and enjoy listening to music and watching movies.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

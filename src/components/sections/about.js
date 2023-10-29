@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'Python', 'React', 'Django', 'Node.js', 'MySQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -164,10 +164,12 @@ const About = () => {
             <p>
               Hello! I'm Harsh, a curious and creative individual having a unique blend of technical
               expertise and creative problem-solving skills. I enjoy creating things that live on
-              the internet, whether that be websites, applications, or anything in between. I am a
-              pre-final year student at IIT Kharagpur pursuing Integrated M.Sc. in Mathematics and
-              Computing. Originally from Nagpur, Maharashtra, I am currently living in Kharagpur,
-              West Bengal.
+              the internet, whether that be websites, applications, or anything in between.
+            </p>
+            <p>
+              I am a pre-final year student at IIT Kharagpur pursuing Integrated M.Sc. in
+              Mathematics and Computing. Originally from Nagpur, Maharashtra, I am currently living
+              in Kharagpur, West Bengal.
             </p>
             <p>
               When I am not infront of my computer, I love traveling and exploring new places. I

@@ -18,10 +18,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/harsh-wasnik-60b63b1b9/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/javagenuis',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/javagenuis',
+    // },
   ],
 
   navLinks: [
@@ -34,8 +34,16 @@ module.exports = {
       url: '/#jobs',
     },
     {
+      name: 'Hackathons',
+      url: '/#hackathons',
+    },
+    {
       name: 'Work',
       url: '/#projects',
+    },
+    {
+      name: 'PORs',
+      url: '/#pors',
     },
     {
       name: 'Contact',

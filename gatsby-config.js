@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Harsh Wasnik',
     description:
-      'Harsh Wasnik is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Harsh Wasnik is a student at IIT Kharagpur who is also an excellent web developer specializing in both frontend as well as backend web development',
     siteUrl: 'https://harshwasnik.tech', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@HarshWasnik1606',

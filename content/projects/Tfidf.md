@@ -9,7 +9,7 @@ tech:
   - Selenium
   - HTML
   - CSS
-company: 'Self project'
+company: 'Algozenith Workshop'
 showInProjects: true
 ---
 

@@ -12,4 +12,4 @@ company: 'Self project'
 showInProjects: true
 ---
 
-Book lending platfrom where people can list books and other people can request to borrow the desired book.
+Book lending platform where people can list books and other people can request to borrow the desired book.

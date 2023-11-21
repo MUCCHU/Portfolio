@@ -10,4 +10,4 @@ url: 'https://kodeinkgp.in/'
 
 - Among the top 3 teams in the Hackathon which received a participation from over 20 different teams
 - Developed a stock trading platform where users can trade stocks causing the stock price to vary dynamically
-- Developed a dynamically varying graph that displayes the actual bitcoin value at the moment using Binance API
+- Developed a dynamically varying graph that displays the actual bitcoin value at the moment using Binance API

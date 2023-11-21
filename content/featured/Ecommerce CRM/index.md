@@ -12,4 +12,4 @@ tech:
   - Heroku
 ---
 
-A consumer relationship management software built using Django as the backend featuring appealing and responsive UI. This allows an adminstrator to manage all queries for user that orders from the ecommerce platform.
+A consumer relationship management software built using Django as the backend featuring appealing and responsive UI. This allows an administrator to manage all queries for user that orders from the ecommerce platform.

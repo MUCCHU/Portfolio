@@ -5,7 +5,7 @@ github: 'https://github.com/mucchu/tf-idf'
 external: 'https://tf-idf-wg2d.onrender.com/'
 tech:
   - Flask
-  - Beutiful Soup
+  - Beautiful Soup
   - Selenium
   - HTML
   - CSS

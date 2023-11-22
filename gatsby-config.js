@@ -163,12 +163,5 @@ module.exports = {
         },
       },
     },
-
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: 'G-8P5CR0RELQ',
-    //   },
-    // },
   ],
 };

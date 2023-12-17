@@ -1,6 +1,6 @@
 ---
 date: '2023-06-20'
-title: 'TF-IDF Search Engine'
+title: 'Leetcode Problems Searcher'
 github: 'https://github.com/mucchu/tf-idf'
 external: 'https://tf-idf-wg2d.onrender.com/'
 tech:

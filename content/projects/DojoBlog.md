@@ -8,7 +8,7 @@ tech:
   - HTML
   - CSS
 company: 'Self project'
-showInProjects: true
+showInProjects: false
 ---
 
 Built Dojo Blog, which is a blog posting platform enabling users to share and read blogs

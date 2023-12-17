@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'E-commerce CRM software'
 cover: './crm.png'
 github: 'https://github.com/MUCCHU/CRM-Django'

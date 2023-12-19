@@ -21,7 +21,7 @@ const IconLogo = () => (
         <path d="M 313.779 141.221 L 345.589 141.221 L 345.589 363.891 L 313.779 363.891 Z M 185.903 363.891 L 154.093 363.891 L 154.093 141.221 L 185.903 141.221 Z M 316.642 264.644 L 182.722 264.644 L 182.722 236.969 L 316.642 236.969 Z" fill="rgb(100, 255, 218)"/> */}
       </g>
     </g>
-    <text x="28" y="65" fill="currentColor" fontSize="50px" fontFamily="Consolas, serif">
+    <text x="24" y="65" fill="currentColor" fontSize="55px" fontFamily="var(--font-sans)">
       H
     </text>
   </svg>

@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing specializing in back-end infrastructures and APIs, I
+        I’m a software engineer specializing in back-end infrastructures and APIs, I
         offer expertise in designing and building scalable and reliable software solutions .
       </p>
     </>
